@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: NTP
+area: "Internet"
+workgroup: "Network Time Protocols"
 keyword:
  - next generation
  - unicorn
  - AI-native
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Network Time Protocols"
+  type: "Working Group"
+  mail: "ntp@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/ntp/"
+  github: "kodonog/draft-kodonog-ntp-test"
+  latest: "https://kodonog.github.io/draft-kodonog-ntp-test/draft-kodonog-ntp-test.html"
 
 author:
  -
