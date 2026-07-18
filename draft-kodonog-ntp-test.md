@@ -37,7 +37,7 @@ informative:
 
 --- abstract
 
-This draft is Karen learning the martin tompson template
+This draft is Karen learning the martin tompson template. This is a lost cause. 
 
 
 --- middle
