@@ -37,7 +37,7 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This draft is Karen learning the martin tompson template
 
 
 --- middle
