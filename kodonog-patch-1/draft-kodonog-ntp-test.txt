@@ -13,7 +13,8 @@ Expires: 19 January 2027
 
 Abstract
 
-   This draft is Karen learning the martin tompson template
+   This draft is Karen learning the martin tompson template.  This is a
+   lost cause.
 
 About This Document
 
