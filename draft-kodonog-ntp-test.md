@@ -27,7 +27,7 @@ author:
  -
     fullname: "Karen O'Donoghue"
     organization: Your Organization Here
-    email: "kodonog@gmail.com"
+    email: "kodonog@pobox.com"
 
 normative:
 
