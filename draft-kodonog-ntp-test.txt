@@ -2,7 +2,7 @@
 
 
 
-NTP                                                           Y. N. Here
+Network Time Protocols                                     K. O'Donoghue
 Internet-Draft                                    Your Organization Here
 Intended status: Informational                              18 July 2026
 Expires: 19 January 2027
@@ -13,22 +13,25 @@ Expires: 19 January 2027
 
 Abstract
 
-   TODO Abstract
+   This draft is Karen learning the martin tompson template.  This is a
+   lost cause.
 
 About This Document
 
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at
-   https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-kodonog-ntp-test/.
+   https://kodonog.github.io/draft-kodonog-ntp-test/draft-kodonog-ntp-
+   test.html.  Status information for this document may be found at
+   https://datatracker.ietf.org/doc/draft-kodonog-ntp-test/.
 
-   Discussion of this document takes place on the WG Working Group
-   mailing list (mailto:WG@example.com), which is archived at
-   https://example.com/WG.
+   Discussion of this document takes place on the Network Time Protocols
+   Working Group mailing list (mailto:ntp@ietf.org), which is archived
+   at https://mailarchive.ietf.org/arch/browse/ntp/.  Subscribe at
+   https://www.ietf.org/mailman/listinfo/ntp/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/USER/REPO.
+   https://github.com/kodonog/draft-kodonog-ntp-test.
 
 Status of This Memo
 
@@ -108,6 +111,6 @@ Acknowledgments
 
 Author's Address
 
-   Your Name Here
+   Karen O'Donoghue
    Your Organization Here
-   Email: your.email@example.com
+   Email: kodonog@gmail.com
