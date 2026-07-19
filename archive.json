@@ -1,0 +1,156 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-07-19T01:24:19.151334+00:00",
+  "repo": "kodonog/draft-kodonog-ntp-test",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    },
+    {
+      "name": "Needs PR for content",
+      "description": "",
+      "color": "4f7b26"
+    }
+  ],
+  "issues": [
+    {
+      "number": 2,
+      "id": "I_kwDOTcghgc8AAAABJSzdaw",
+      "title": "This draft needs some substance",
+      "url": "https://github.com/kodonog/draft-kodonog-ntp-test/issues/2",
+      "state": "CLOSED",
+      "author": "kodonog",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [
+        "bug"
+      ],
+      "body": "",
+      "createdAt": "2026-07-18T14:32:20Z",
+      "updatedAt": "2026-07-18T14:36:28Z",
+      "closedAt": "2026-07-18T14:36:28Z",
+      "comments": []
+    }
+  ],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOTcghgc7zV4AC",
+      "title": "first version of the abstract",
+      "url": "https://github.com/kodonog/draft-kodonog-ntp-test/pull/1",
+      "state": "MERGED",
+      "author": "kodonog",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-18T14:22:07Z",
+      "updatedAt": "2026-07-18T14:28:21Z",
+      "baseRepository": "kodonog/draft-kodonog-ntp-test",
+      "baseRefName": "main",
+      "baseRefOid": "ee37fa6aae7d67904972e3bf9fbda86ebef67438",
+      "headRepository": "kodonog/draft-kodonog-ntp-test",
+      "headRefName": "kodonog-patch-1",
+      "headRefOid": "73359869df7ad396476ea1611e2b296fcebf694e",
+      "closedAt": "2026-07-18T14:28:21Z",
+      "mergedAt": "2026-07-18T14:28:21Z",
+      "mergedBy": "kodonog",
+      "mergeCommit": {
+        "oid": "fd73904644fc08ecac01237fbe5920b6975b61a8"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOTcghgc8AAAABGdmVEw",
+          "commit": {
+            "abbreviatedOid": "efc08c0"
+          },
+          "author": "github-actions",
+          "authorAssociation": "CONTRIBUTOR",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2026-07-18T14:24:08Z",
+          "updatedAt": "2026-07-18T14:24:08Z",
+          "comments": [
+            {
+              "originalPosition": 5,
+              "body": "````suggestion\nThis draft is Karen learning the martin tompson template. This is a lost cause.\n````",
+              "createdAt": "2026-07-18T14:24:08Z",
+              "updatedAt": "2026-07-18T14:24:08Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "PR_kwDOTcghgc7zWAf7",
+      "title": "create issue for content",
+      "url": "https://github.com/kodonog/draft-kodonog-ntp-test/pull/3",
+      "state": "MERGED",
+      "author": "kodonog",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Fixes #2",
+      "createdAt": "2026-07-18T14:35:05Z",
+      "updatedAt": "2026-07-18T14:36:27Z",
+      "baseRepository": "kodonog/draft-kodonog-ntp-test",
+      "baseRefName": "main",
+      "baseRefOid": "fd73904644fc08ecac01237fbe5920b6975b61a8",
+      "headRepository": "kodonog/draft-kodonog-ntp-test",
+      "headRefName": "kodonog-patch-2",
+      "headRefOid": "13363e1c4565e862da7c66f37694a19f24f0274c",
+      "closedAt": "2026-07-18T14:36:27Z",
+      "mergedAt": "2026-07-18T14:36:27Z",
+      "mergedBy": "kodonog",
+      "mergeCommit": {
+        "oid": "6ca5499faa0ebe121f79b52317cef0fa1274c04c"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
